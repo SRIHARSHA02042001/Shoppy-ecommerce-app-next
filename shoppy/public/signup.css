@@ -1,0 +1,16 @@
+.authcard {
+  margin: 10px auto !important;
+  height: 400px !important;
+  max-width: 800px !important;
+  padding: 10px;
+}
+.btcard {
+  margin-top: 40px;
+}
+.acct {
+  margin-top: 80px !important;
+  color: greenyellow;
+}
+.acct1 {
+  color: red;
+}
